@@ -1,0 +1,345 @@
+body{
+
+    background-color: black;
+}
+
+
+.monLogo{
+
+    width: 340px;
+    margin-top: 10%;
+    
+    width: 600px;
+    padding-top: 5%;
+
+}
+.span1{
+    display: flex;
+    justify-content: center;
+
+}
+.slogan{
+
+    text-align: center;
+    font-size: 20px;
+}
+.boutton{
+
+    background-color: rgba(193, 195, 199, 0.356);
+    border: none;
+    color: black;
+    padding: 1rem;
+    text-align: center;
+    text-decoration: none; /* enlever le soulignement 'un lien */
+    display: inline-block; /* liensous forme de bloc et non de text */
+    font-size: 1rem;
+    border-radius: 2rem;
+    margin: 4px 2px;
+    width: 200px;
+}
+.mesBouttons{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto;
+    width: fit-content;
+}
+.input{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto;
+    width: fit-content;
+    width: 250px;
+    margin-top: 3rem;
+    
+    
+}
+.bouttonPage2{
+    background-color: #2d176ac1;
+    border: none;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+    text-decoration: none; /* enlever le soulignement 'un lien */
+    display: inline-block; /* liensous forme de bloc et non de text */
+    font-size: 1rem;
+    border-radius: 2rem;
+    margin: 4px 2px;
+    width: 200px;
+   
+}
+input[type="text"]{
+
+    height: 30px;
+    height: 50px;
+    border-radius: 20px;
+    background-color: rgba(0, 0, 0, 0.781);
+    color: #fff;
+}
+#mot2passOublier{
+
+    text-align: right;
+    font-size: 10px;
+
+}
+#creerUnCpmpte{
+
+    text-align: right;
+    font-size: 10px;
+
+
+}
+.monLogopage3{
+
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-left: 55%; 
+    margin-top: 1%;
+}
+
+.iconeRetour{
+
+    width: 40px;
+    height: 40px;
+    padding-top: 8%;
+    margin-left: -5%;
+    margin-top: -6%;
+
+}
+
+.reinitialisation2Mot2Pass{
+
+    background-color:rgba(45, 23, 106, 0.81);
+    border-radius: 20px;
+    width: 300px;
+    height: 50px;
+    margin-left: 5%;
+    margin-top: 5%;
+
+}
+.monphone{
+
+    background-color:#fff;
+    border-radius: 20px;
+    width: 340px;
+    height: 585px;
+    border-color: black;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.div1pageindex{
+
+    margin-top: 10%;
+}
+.div1page2{
+    margin-top: -3%;
+
+}
+#icone1{
+
+    width: 30px;
+    padding-top: 10%;
+    margin-left: 5%;
+
+}
+#icone2{
+
+    width: 30px;
+}
+#icone3{
+
+    width: 30px;
+}
+#icone4{
+
+    width: 30px;
+}
+.iconePhone{
+
+    margin-top: -11%;
+    margin-left: 65%;
+
+
+}
+#nosProduit{
+
+    text-align: center;
+    font-size: 25px;
+    margin-top: -12%;
+    margin-left: -10%;
+    color: #fff;
+
+}
+.bouttonPage3{
+
+    background-color: #2d176ac1;
+    border: none;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+    text-decoration: none; /* enlever le soulignement 'un lien */
+    display: inline-block; /* liensous forme de bloc et non de text */
+    font-size: 1rem;
+    margin-left: -18%;;
+    width: 309px;
+    margin-top: -10%;
+}
+.nosProduit2{
+
+    width: 100%;
+}
+
+.nosPrduit1{
+    width: 100%;
+}
+
+.mesProduits{
+
+    font-size: 10px;
+    margin-top: 3%;
+
+}
+#mot2pass{
+
+    text-align: right;
+    font-size: 16px;
+    margin-top: -11%;
+    margin-right: 10%;
+    color: #fff;
+
+}
+
+.iconeRetourPage4{
+
+    width: 40px;
+    height: 40px;
+    padding-top: 8%;
+    margin-right: 70%;
+    margin-top: -6%;
+
+}
+.monLogopage4{
+
+    width: 127px;
+    height: 120px;
+    border-radius: 50%;
+    margin-left: 30%; 
+    margin-top: 4%;
+}
+.bouttonSoumettrePage4{
+
+    background-color: #2d176ac1;
+    border: none;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+    text-decoration: none; /* enlever le soulignement 'un lien */
+    display: inline-block; /* liensous forme de bloc et non de text */
+    font-size: 1rem;
+    border-radius: 2rem;
+    margin: 8px;
+    width: 200px;
+
+}
+#phrase1Page4{
+
+    font-size: 15px;
+    text-align: left;
+
+}
+#inputmot2passPaga4{
+
+    height: 30px;
+    border-radius: 20px;
+    background-color: rgba(205, 199, 199, 0.781);
+    color: #000;
+}
+#account{
+    width: 30px;
+    margin-left: 5%;
+}
+#setting{
+    width: 30px;
+    margin-left: 70%;
+}
+.div1Page5{
+
+    margin-top: 10%;
+
+}
+.monLogopage5{
+
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-left: 40%; 
+
+
+}
+.div2Page5{
+
+    width: 300px;
+    height: 150px;
+    background-color: #2d176adc;
+    border-radius: 5%;
+    margin-left: 6%;
+    margin-top: -8%;
+    text-align: center;
+    color: #fff;
+
+
+}
+.voiture3{
+
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-left: 40%; 
+
+
+}
+.voiture2{
+
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-left: 40%; 
+
+}
+.voiture1{
+
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-left: 40%; 
+
+}
+.div3Page5{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: fit-content;
+    margin-left: 15%;
+    margin-top: 10%;
+
+}
+#ConsulterNosOffres{
+    font-size: 20px;
+    margin-top: 5px;
+
+}
+#obtenez1Devis{
+    font-size: 10px;
+    margin-top: -5%;
+}
+.faireUneSimulation{
+    background-color: rgba(227, 223, 223, 0.343);
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+    margin-left: 15%;
+
+}
