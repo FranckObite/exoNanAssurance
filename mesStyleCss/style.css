@@ -1,15 +1,14 @@
 body{
 
-    background-color: black;
+    background-color: rgb(240, 221, 221);
 }
 
 
 .monLogo{
 
-    width: 340px;
-    margin-top: 10%;
     
-    width: 600px;
+    margin-top: 10%;
+    width: 100%;
     padding-top: 5%;
 
 }
@@ -51,6 +50,7 @@ body{
     margin: 0 auto;
     width: fit-content;
     width: 250px;
+    height: 225px;
     margin-top: 3rem;
     
     
@@ -126,7 +126,7 @@ input[type="text"]{
     width: 340px;
     height: 585px;
     border-color: black;
-    margin-left: 5%;
+    margin-left: 35%;
     margin-top: 5%;
 }
 .div1pageindex{
@@ -134,7 +134,7 @@ input[type="text"]{
     margin-top: 10%;
 }
 .div1page2{
-    margin-top: -3%;
+    margin-top: -7%;
 
 }
 #icone1{
@@ -184,7 +184,7 @@ input[type="text"]{
     font-size: 1rem;
     margin-left: -18%;;
     width: 309px;
-    margin-top: -10%;
+    margin-top: -100%;
 }
 .nosProduit2{
 
@@ -241,6 +241,7 @@ input[type="text"]{
     border-radius: 2rem;
     margin: 8px;
     width: 200px;
+    margin-top: -100%;
 
 }
 #phrase1Page4{
@@ -271,11 +272,10 @@ input[type="text"]{
 }
 .monLogopage5{
 
-    width: 50px;
+    width: 70px;
     height: 50px;
     border-radius: 50%;
     margin-left: 40%; 
-
 
 }
 .div2Page5{
@@ -288,7 +288,6 @@ input[type="text"]{
     margin-top: -8%;
     text-align: center;
     color: #fff;
-
 
 }
 .voiture3{
@@ -341,5 +340,140 @@ input[type="text"]{
     height: 30px;
     border-radius: 5px;
     margin-left: 15%;
+
+}
+.monLogoPage2{
+
+    margin-top: 10%;
+    width: 100%;
+}
+.inputPage4{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto;
+    width: fit-content;
+    width: 250px;
+    height: 225px;
+    margin-top: -10%;
+
+}
+#faireUneSimul{
+
+    margin-top: -8.5%;
+}
+.div5Page5{
+
+    width: 100%;
+    height: 130%;
+    margin-top: -4%;
+
+}
+#ProuitsEtFormule{
+
+    text-align: left;
+    color: #000;
+    font-size: 20px;
+    margin-top: 10%;
+
+}
+.mesBouttonsPage5{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+   
+    
+}
+.boutton1Page5{
+
+    background-color: #B5ADAD ;
+    height: 5px;
+    width: 125px;
+    height: 30px;
+    border-radius: 5px;
+    margin-top: 10%;
+    margin-left: 4%;
+
+   
+}
+.boutton2Page5{
+
+    background-color: #B5ADAD ;
+    height: 5px;
+    width: 125px;
+    height: 30px;
+    border-radius: 5px;
+    margin-left: 53%;
+    margin-top: -16%;
+}
+
+#nosProuit{
+
+    color: #D61BA1;
+    font-size: 16px;
+    text-decoration: none;
+    
+}
+#nosFormule{
+
+    color: #D61BA1;
+    font-size: 16px;
+    text-decoration: none;
+    margin-right: 10%;
+}
+.Call{
+
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin-left: -4%;
+    margin-top: 5%; 
+}
+#callCenter{
+
+    text-align: center;
+    color: #000;
+    font-size: 15px;
+    margin-top: -1%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+} 
+.monMenu{
+
+    background-color: #c8141439;
+    width: 100%;
+    height: 20%;  
+    border-radius: 5px;
+       
+}
+#Acceuil{
+
+    width: 30px;
+    margin-top: 59%;
+    
+    
+}
+#note2{
+
+    width: 30px;
+    margin-top: 59%;
+    
+}
+#add{
+
+    width: 30px;
+    margin-top: 59%;
+    
+    
+}
+#contrats{
+
+    width: 30px;
+    margin-top: 59%;
+    
+}.Acc{
+
+   margin-left: 25%;
 
 }
