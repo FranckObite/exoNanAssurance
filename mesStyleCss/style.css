@@ -127,7 +127,8 @@ input[type="text"]{
     height: 585px;
     border-color: black;
     margin-left: 35%;
-    margin-top: 5%;
+    margin-top: 5%; 
+    
 }
 .div1pageindex{
 
@@ -205,7 +206,7 @@ input[type="text"]{
 
     text-align: right;
     font-size: 16px;
-    margin-top: -11%;
+    margin-top: -10%;
     margin-right: 10%;
     color: #fff;
 
@@ -216,7 +217,7 @@ input[type="text"]{
     width: 40px;
     height: 40px;
     padding-top: 8%;
-    margin-right: 70%;
+    margin-right: 80%;
     margin-top: -6%;
 
 }
@@ -361,7 +362,8 @@ input[type="text"]{
 }
 #faireUneSimul{
 
-    margin-top: -8.5%;
+    margin-top: -7%;
+    font-size: 10px;
 }
 .div5Page5{
 
@@ -374,8 +376,8 @@ input[type="text"]{
 
     text-align: left;
     color: #000;
-    font-size: 20px;
-    margin-top: 10%;
+    font-size: 15px;
+    margin-top: 11%;
 
 }
 .mesBouttonsPage5{
@@ -393,8 +395,9 @@ input[type="text"]{
     width: 125px;
     height: 30px;
     border-radius: 5px;
-    margin-top: 10%;
+    margin-top: 11%;
     margin-left: 4%;
+    position: relative;
 
    
 }
@@ -412,14 +415,14 @@ input[type="text"]{
 #nosProuit{
 
     color: #D61BA1;
-    font-size: 16px;
+    font-size: 15px;
     text-decoration: none;
     
 }
 #nosFormule{
 
     color: #D61BA1;
-    font-size: 16px;
+    font-size: 15px;
     text-decoration: none;
     margin-right: 10%;
 }
@@ -428,8 +431,7 @@ input[type="text"]{
     width: 70px;
     height: 70px;
     border-radius: 50%;
-    margin-left: -4%;
-    margin-top: 5%; 
+    margin-top: 15%; 
 }
 #callCenter{
 
@@ -451,6 +453,7 @@ input[type="text"]{
 
     width: 30px;
     margin-top: 59%;
+    margin-left: -12%;
     
     
 }
@@ -458,12 +461,15 @@ input[type="text"]{
 
     width: 30px;
     margin-top: 59%;
+    margin-left: 8%;
+
     
 }
 #add{
 
     width: 30px;
     margin-top: 59%;
+    margin-left: 8%;
     
     
 }
@@ -471,9 +477,325 @@ input[type="text"]{
 
     width: 30px;
     margin-top: 59%;
+    margin-left: 8%;
     
 }.Acc{
 
    margin-left: 25%;
 
 }
+#Inscription{
+
+    text-align: center;
+    font-size: 2rem;
+    margin-top: -13%;
+    margin-right: -2%;
+    color: #fff;
+
+}
+.monLogopageInscription{
+
+    width: 70px;
+    height: 50px;
+    border-radius: 50%;
+    margin-left: 70%;
+    margin-top: -50%; 
+
+}
+.bouttonSuivantPageInscription{
+
+    background-color: #2D176A;
+    border: none;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+    text-decoration: none; /* enlever le soulignement 'un lien */
+    display: inline-block; /* liensous forme de bloc et non de text */
+    font-size: 1rem;
+    border-radius: 2rem;
+    width: 100px;
+    height: 5px;
+    
+
+}
+ strong{
+    margin-bottom: 12px;
+    text-align: center;
+
+}
+.inputPageInscription{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto;
+    width: fit-content;
+    width: 250px;
+    height: 300px;
+    margin-top: -10%;
+
+}
+p,
+label {
+    font: 0.7rem 'Fira Sans', sans-serif;
+    text-align: center;
+}
+
+input {
+    margin: 0.4rem;
+}
+.inputPageSecondInscription{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto;
+    width: fit-content;
+    width: 250px;
+    height: 250px;
+    margin-top: -15%;
+
+}
+.bouttonCreerUnComptePageInscription{
+
+    background-color: #2D176A;
+    border: none;
+    padding: 1rem;
+    text-decoration: none; /* enlever le soulignement 'un lien */
+    border-radius: 2rem;
+    margin-left: 25%;
+    width: 150px;
+    height: 5px;
+    margin-top: 10%;
+
+}
+.CreerUnCompte{
+
+    color: #fff;
+    text-decoration: none;
+    margin-left: 10%;
+    
+}
+#profil{
+
+    font-size: 2rem;
+    color: #000;
+    
+    
+}
+.monProfil1{
+
+    text-align: left;
+    margin: 1rem;
+    color: #D61BA1;
+         
+}
+.bonHommeProfil{
+
+    width: 150px;
+    margin-left: 50%;
+    margin-top: -40%;
+    position: relative;
+   
+}
+.ajouterPhotoProfil{
+
+    position: relative;
+    margin-left: 80%;
+    margin-top: -15%;
+    
+}
+#addPhotoProfil{
+    width: 40%;
+}
+.premierDivProfilPage{
+
+    background-color: #2D176A;
+    width: 80%;
+    height: 2px;
+    margin-left: 15%;
+
+}
+#monText{
+
+    text-align: left;
+    font-size: 19px;
+    margin-left: 20%;
+}
+.editer{
+
+    position: relative;
+    margin-top: -50%;
+    margin-left: 10%;
+
+}
+.consulter{
+
+    position: relative;
+    margin-top: 8%;
+    margin-left: 9%;
+    
+}
+.police{
+
+    position: relative;
+    margin-top: 7%;
+    margin-left: 9%;
+    
+
+}
+#image1{
+
+    width: 10%;
+    
+}
+#image2{
+
+    width: 10%;
+    
+}
+#image3{
+
+    width: 10%;
+    
+}
+.deuxiemeDivProfilPage{
+
+    background-color: #b5adad19;
+    width: 100%;
+    height: 59px;
+    margin-top: -15%;
+    text-align: center;
+}
+#parametres{
+
+    font-size: 1rem;
+
+}
+.mesParametres{
+
+    text-align: center;
+    margin-top: -14%;
+}
+.consult{
+
+    position: relative;
+    margin-top: -10%;
+
+}
+#conditiong{
+
+    text-align: left;
+    margin-left: 15%;
+}
+.edit{
+
+    position: relative;
+    margin-top: -10%;
+
+}
+.editr{
+
+    position: relative;
+    margin-top: -10%;
+}
+.consultr{
+
+    position: relative;
+    margin-top: -10%;
+}
+
+.polce{
+    position: relative;
+    margin-top: -13%;
+
+}
+.troisiemmeDivProfilPage{
+
+    background-color: #2D176A;
+    width: 150px;
+    height: 30px;
+    margin-top: 6%;
+    text-align: center;
+    margin-left: 30%;
+    border-radius: 10px;
+    
+    
+}
+.boutonDeconnection{
+
+    color: #fff;
+    text-decoration: none;
+    
+}
+.seDeconnecter{
+
+    text-align: center;
+    position: relative;
+    margin-top: -7%;
+    margin-left: 4%;
+}
+.monMenu1{
+
+    background-color: #c8141439;
+    width: 100%;
+    height: 20%;  
+    border-radius: 5px;
+    position: relative;
+    margin-top: 20%;
+}
+.monIconRetour{
+
+    position: relative;
+    margin-top: -69%;
+    margin-left: 80%;
+
+}
+#parametrs{
+
+    font-size: 2rem;
+}
+.ourFormules{
+
+    color: #D61BA1;
+    position: relative;
+    margin-top: -8%;
+    margin-left: 25%;
+    text-decoration: none;
+    
+}
+.ourProduct{
+
+    color: #D61BA1;
+    text-decoration: none;
+    position: relative;
+    text-align: left;
+    margin-left: 5%;
+   
+}
+.troisiemmeDivProfilPage5{
+
+
+    background-color: #B5ADAD;
+    width: 130px;
+    height: 30px;
+    margin-top: -8%;
+    text-align: center;
+    margin-left: 3%;
+    border-radius: 10px;
+
+}
+.quatriemeDivProfilPage5{ 
+
+    background-color: #B5ADAD;
+    width: 130px;
+    height: 30px;
+    margin-top: -10%;
+    text-align: center;
+    margin-left: 50%;
+    border-radius: 10px;
+
+}
+
+
+
