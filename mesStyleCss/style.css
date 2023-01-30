@@ -409,7 +409,7 @@ input[type="text"]{
     height: 30px;
     border-radius: 5px;
     margin-left: 53%;
-    margin-top: -16%;
+    margin-top: -13%;
 }
 
 #nosProuit{
@@ -508,14 +508,25 @@ input[type="text"]{
     border: none;
     color: #fff;
     padding: 1rem;
-    text-align: center;
-    text-decoration: none; /* enlever le soulignement 'un lien */
-    display: inline-block; /* liensous forme de bloc et non de text */
     font-size: 1rem;
     border-radius: 2rem;
     width: 100px;
     height: 5px;
-    
+    position: relative;
+    margin-left: 30%;
+
+}
+.monBoutonSuivant{
+
+    position: relative;
+    text-align: center;
+    margin-top: -8%;
+   
+}
+#suivantSuivant{
+
+    text-decoration: none;
+    color: #fff;
 
 }
  strong{
@@ -563,7 +574,7 @@ input {
     padding: 1rem;
     text-decoration: none; /* enlever le soulignement 'un lien */
     border-radius: 2rem;
-    margin-left: 25%;
+    margin-left: 23%;
     width: 150px;
     height: 5px;
     margin-top: 10%;
@@ -571,10 +582,18 @@ input {
 }
 .CreerUnCompte{
 
+    
+    margin-left: 10%;
+    text-align: center;
+    margin-top: -8%;
+    margin-left: -1%;
+    
+}
+#monLienDeCreationDeCompte{
+
     color: #fff;
     text-decoration: none;
-    margin-left: 10%;
-    
+
 }
 #profil{
 
@@ -796,6 +815,147 @@ input {
     border-radius: 10px;
 
 }
+#Prouits{
+
+    text-align: left;
+    color: #000;
+    font-size: 15px;
+    margin-top: 13%;
+
+}
+.nouveauDevis{
+
+    position: relative;
+    margin-left: -53%;
+    margin-top: -9%;
+
+}
+.revenirAuDevis{
+
+    position: relative;
+    margin-left: 51%;
+    margin-top: -9%;
+    
+}
+.mesDevis{
+    position: relative;
+    margin-left: -56%;
+    margin-top: -8%;
+}
+.mesContrats{
+    position: relative;
+    margin-left: 52%;
+    margin-top: -8%;
+}
+.boutton2Page51{
+
+    background-color: #B5ADAD ;
+    height: 5px;
+    width: 125px;
+    height: 30px;
+    border-radius: 5px;
+    margin-left: 53%;
+    margin-top: -14%;
+}
+#nouveauDevisPage{
+
+    color: #D61BA1;
+    font-size: 20PX;
+    margin-left: -50%;
+
+}
+#monImageNouveauDevis{
+
+    position: relative;
+    width: 70%;
+    margin-top: -5%;
+    margin-left: 15%;
+
+}
+.boutonSoucrireNouveauDevis{
+
+    background-color: #B5ADAD;
+    height: 5px;
+    width: 125px;
+    height: 30px;
+    border-radius: 5px;
+    margin-left: 20%;
+    position: relative;
+    margin-top: 5%;
+
+}
+.monIconRetourNouveauDevis{
+
+    position: relative;
+    margin-top: -150%;
+    margin-left: 80%;
+
+}
+.Scouscrire{
+
+    position: relative;
+    margin-left: 26%;
+    margin-top: -8%;
+    
+}
+#maSouscription{
+
+    color: #D61BA1;
+    text-decoration: none;
+    font-size: 20px;
+}
+.monMenuNouveauDevis{
+
+    position: relative;
+    margin-top: -57%;
+    
+}
+.monMenuPageNouveauDevis{
+
+    background-color: #c8141439;
+    width: 85%;
+    height: 40px;  
+    border-radius: 5px;
+    position: relative;
+    margin-top: 126%;
+    margin-left: 6%;
+
+}
+.souscriptionFormuleBronz{
+
+    position: relative;
+    margin-left: 26%;
+    margin-top: -8%;
+
+}
+.monVehicul{
+
+    position: relative;
+    width: 100%;
+
+}
+.iconeRetourPageBronz{
+
+    width: 40px;
+    height: 40px;
+    padding-top: 8%;
+    margin-left: -550px;
+    margin-top: 28%;
+
+}
+.monMenuPageBronz{
+
+    background-color: #c8141439;
+    width: 85%;
+    height: 40px;  
+    border-radius: 5px;
+    position: relative;
+    margin-top: 120%;
+    margin-left: 6%;
+
+}
+
+
 
 
 
