@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../mesStyleCss/style.css">
+</head>
+<body>
+
+    <div class="monphone" >
+
+        <div>
+            <img id="icone1" src="../mesImagesEtIcones/time.png" alt="">
+            <div class="iconePhone">
+            <img id="icone2" src="../mesImagesEtIcones/signal.png" alt="">
+            <img id="icone3" src="../mesImagesEtIcones/batterie.png" alt="">
+            <img id="icone4" src="../mesImagesEtIcones/account.png" alt="">     
+        </div>
+
+        <div class="reinitialisation2Mot2Pass">
+            <a href="../mesPagesHtml/page2.html">
+                <span class="span1">
+                    <img class="iconeRetourPage4" src="../mesImagesEtIcones/retour.png" alt="" >   
+                </span>
+            </a>     
+            
+            <p id="Inscription"> <strong>souscription</strong> </p>
+            
+        </div>
+
+        <h1> &nbsp; Etape 1/3</h1>
+
+    </div>
+
+    <div class="maSouscriptionPageUne">
+
+        <label class="monLabel1" for="monLabel"> Le véhicule que vous souhaitez assurer est&nbsp;:</label> <br> <br>
+        <label>
+            <input checked="checked" data-val="true" data-val-number="Le champ Le véhicule que vous souhaitez assurer est&nbsp;: doit être un nombre." data-val-required="Veuillez indiquer quel est le véhicule à assurer." id="monLabel" name="monLabel" required="" type="radio" value="1"> Vous le possédez déjà
+        </label> <br>
+        
+        <label>
+            <input id="monLabel" name="monLabel" required="" type="radio" value="0"> Une voiture de remplacement 
+        </label> <br> 
+
+        <label>
+            <input id="monLabel" name="monLabel" required="" type="radio" value="0"> Une voiture supplementaire 
+        </label> <br>
+
+        <label>
+            <input id="monLabel" name="monLabel" required="" type="radio" value="0"> Une première voiture  
+        </label> <br> <br>
+        <label class="monLabel1" for="monLabel"> &nbsp; &nbsp; &nbsp; Voulez-vous déclarer un conducteur sécondaire? &nbsp;:</label> <br> <br>
+
+        <div class="monAmpoul2">
+
+            <img id="monAmpoul" src="../mesImagesEtIcones/ampoule.png" alt="">
+
+        </div>
+        <label>
+            <input id="monLabel2" name="monLabel2" required="" type="radio" value="1">Non  
+        </label> <br> 
+        <label>
+            <input id="monLabel2" name="monLabel2" required="" type="radio" value="1">Oui  
+        </label> <br>
+
+        <label class="monLabel1" for="monLabel"> &nbsp; &nbsp; &nbsp; si oui, il s'agit de &nbsp;:</label> <br> <br>
+
+        <div class="maListeDeroulante">
+
+            <select name="listeDeroulantes">
+
+                <optgroup label="--sélectionez--">
+    
+                    <option value="choix1">Votre conjoint ou concubin</option>
+                    <option value="choix2">Votre enfant</option>
+                    <option value="choix3">Votre ou votre mère</option>
+                    <option value="choix4">le père ou la mère e votre concubin</option>
+    
+                </optgroup>
+    
+            </select>
+
+        </div>
+        
+    </div>
+    
+        <br>
+        <br>
+        <div class="mailSoumettre">
+            <div class="bouttonSuivantPageInscription">  
+            </div>
+        </div>
+        <div class="monBoutonSuivant"> <a id="suivantSuivant" href="../mesPagesHtml/souscriptionPageDeux.html"> <strong > Suivant </strong></a></div>
+    
+    </div>
+
+</body>
+</html>
