@@ -74,7 +74,7 @@ input[type="text"]{
     height: 30px;
     height: 50px;
     border-radius: 20px;
-    background-color: rgba(0, 0, 0, 0.781);
+    background-color: rgba(16, 15, 15, 0.781);
     color: #fff;
 }
 #mot2passOublier{
@@ -992,10 +992,23 @@ input {
     margin-left: 1%;
 
 }
+#monAmpoulPageUne{
+
+    width: 40px;
+
+}
 .monAmpoul2{
 
     position: relative;
-    margin-top: -13%;
+    margin-top: -16%;
+    
+}
+#monAmpoulPageDeux1{
+    
+    width: 40px;
+}
+#monAmpoulPageDeux{
+    width: 40px;
 
 }
 .maListeDeroulante{
@@ -1050,7 +1063,7 @@ input {
 
     position: relative;
     margin-left: -30%;
-    margin-top: -18%;
+    margin-top: -21%;
   
 }
 .monLabel12{
@@ -1107,10 +1120,9 @@ input {
 }
 .monAmpoulPageTroisSouscription{
 
-
     position: relative;
-    margin-top: -20%;
-    margin-left: 3%;
+    margin-left: 20%;
+    margin-top: -35%;
 
 }
 .monIconeDeValidation{
@@ -1120,3 +1132,102 @@ input {
     margin-top: -10%;
     
 }
+.EtapeListeDeroulante{
+
+    position: relative;
+    margin-left: 50%;
+    margin-top: -5%;
+
+}
+#monAmpoul{
+
+    width: 70%;
+
+}
+.bouttonSuivantPageInscriptionTrois{
+
+    background-color: #2D176A;
+    border: none;
+    color: #fff;
+    padding: 1rem;
+    font-size: 1rem;
+    border-radius: 2rem;
+    width: 100px;
+    height: 5px;
+    position: relative;
+    margin-left: 30%;
+    margin-top: -15%;
+
+}
+.SouscriptionTrois{
+
+    text-align: left;
+    font-weight: 700; /*mettre en gras*/
+    color: #D61BA1;
+    font-size: medium;
+   
+}
+#ValiderSouscription{
+    width: 70px;
+    
+}
+#souscriptionValide{
+
+    font-size: 20px;
+    margin-left: -10%;
+    
+}
+.souscriptionValidee{
+
+    margin-left: 20%;
+
+    
+}
+.iconeOk{
+
+    
+    position: relative;
+    margin-left: -110%;
+    margin-top: -25%;
+
+}
+#iconeOkOk{
+
+    width: 40px;
+
+}
+#mainDansLamain{
+
+    width: 100%;
+    position: relative;
+    margin-top: 6%;
+    
+}
+.monLogoPageValidation{
+
+    width: 50%;
+    position: relative;
+    margin-left: -8%;
+    
+}
+.monMenuPageValidation{
+
+    background-color: #c8141439;
+    width: 100%;
+    height: 20%;  
+    border-radius: 5px;
+    position: relative;
+    margin-top: 18%;
+
+}
+.iconesMenuValidation{
+
+    position: relative;
+    margin-top: 16%;
+    margin-left: 5%;
+
+    
+
+}
+
+
